@@ -10,5 +10,9 @@ namespace MyCalc
         public int Multiply(int x, int y) {
             return x * y;
         }
+        public int Substract(int x, int y)
+        {
+            return x - y;
+        }
     }
 }
